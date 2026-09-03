@@ -65,41 +65,26 @@
 
 # 🌐 FOLLOW ME ON SOCIALS
 
-<p align="">
-
+<p align="left">
   <a href="https://www.linkedin.com/in/md-rakibul-islam-155108343/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/rakibul-024">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
+  &nbsp;
   <a href="mailto:rakibulislam206924@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
+  &nbsp;
   <a href="https://rakibul-024.github.io/My-Portfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-0A8FDC?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-0A8FDC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-
 </p>
-<p align="center">
 
+<p align="">
   <b>🚀 Keep Learning • Keep Building • Keep Growing</b>
-
 </p>
 
 ---
@@ -110,100 +95,81 @@
 
 # 🛠️ TECHNOLOGY STACK
 
-
 ## 🌐 Languages
 
 <p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"/>
-</a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"/>
+  </a>
 </p>
-
 
 ## ⚛️ Frontend Development
 
 <p align="left">
-
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
-</a>
-
-<a href="https://nextjs.org/">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js"/>
-</a>
-
-<a href="https://redux.js.org/">
-<img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux"/>
-</a>
-
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux"/>
+  </a>
 </p>
-
 
 ## ⚙️ Backend Development
 
 <p align="left">
-
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js"/>
-</a>
-
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js"/>
+  </a>
 </p>
-
 
 ## 🗄️ Database
 
 <p align="left">
-
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"/>
-</a>
-
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL"/>
+  </a>
 </p>
-
 
 ## 🔧 Tools
 
 <p align="left">
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
-</a>
-
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
+  </a>
 </p>
-
-
----
-
 <!-- ====================================================== -->
 <!--             GITHUB STATISTICS & ANALYSIS               -->
 <!-- ====================================================== -->
