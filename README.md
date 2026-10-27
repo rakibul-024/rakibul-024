@@ -48,7 +48,7 @@
 
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://rakibul-024.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio]([https://rakibul-024.github.io/My-Portfolio/](https://rakibul-islam-portfolio-pink.vercel.app/))
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/md-rakibul-islam-155108343/)
 
