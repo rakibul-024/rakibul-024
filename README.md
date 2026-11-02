@@ -54,7 +54,7 @@
 
 - 📫 How to reach me **rakibulislam206924@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1zkZtmcYyCE7bGiO0dJMEihVhdCIbQy9F/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/10-DJkrFZqstZqtjP7PNmMdyAcZJU7-u6/view?usp=sharing)
 
 
 ---
