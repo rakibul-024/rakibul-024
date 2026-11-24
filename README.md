@@ -48,13 +48,13 @@
 
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://rakibul-islam-portfolio-pink.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rakibul-islam-024.vercel.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/md-rakibul-islam-155108343/)
 
 - 📫 How to reach me **rakibulislam206924@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/10-DJkrFZqstZqtjP7PNmMdyAcZJU7-u6/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/10qvCXcimn9Wg1uUbAEmk19KmAT0L-pt4/view?usp=sharing)
 
 
 ---
